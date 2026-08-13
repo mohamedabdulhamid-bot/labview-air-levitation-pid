@@ -28,6 +28,6 @@ The Arduino calculates the error between the desired setpoint (hand position or 
 
 ## Repository Contents
 *   `levitation_controller.ino`: The main Arduino C++ firmware containing the PID loop and sensor logic.
-*   `test23_lastone.vi`: The LabVIEW virtual instrument used for serial data acquisition and manual override.
+*   `PID_Control_Dashboard.vi`: The LabVIEW virtual instrument used for serial data acquisition and manual override.
 *   `System_Design_Report.pdf`: Hardware schematics and theoretical background.
 #author Mohamed Ahmed Abdulhamid Abdellah
