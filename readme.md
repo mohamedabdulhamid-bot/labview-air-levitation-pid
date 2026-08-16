@@ -32,3 +32,7 @@ The Arduino calculates the error between the desired setpoint (hand position or 
 *   `PID_Control_Dashboard.vi`: The LabVIEW virtual instrument used for serial data acquisition and manual override.
 *   `System_Design_Report.pdf`: Hardware schematics and theoretical background.
 #author Mohamed Ahmed Abdulhamid Abdellah
+
+
+<img width="711" height="1919" alt="Screenshot 2026-08-12 182619" src="https://github.com/user-attachments/assets/3ee15989-13af-476f-be05-464e061641a6" />
+
