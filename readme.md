@@ -1,5 +1,6 @@
 #Interactive Air Levitation PID Control
 #by : Mohamed Ahmed Abdulhamid Abdellah
+<img width="478" height="986" alt="Screenshot 2026-08-12 182243" src="https://github.com/user-attachments/assets/b5f0734b-42bd-4f59-8f77-82076858f885" />
 
 ## Project Video
 [Click here to watch the full system demonstration on youtube](https://www.youtube.com/watch?v=pBzFlaL845w)
