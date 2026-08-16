@@ -1,21 +1,21 @@
-#Interactive Air Ping Pong Ball Levitation PID Control System
-#by : Mohamed Ahmed Abdulhamid Abdellah
-<img width="478" height="986" alt="Screenshot 2026-08-12 182243" src="https://github.com/user-attachments/assets/b5f0734b-42bd-4f59-8f77-82076858f885" />
+# Interactive Air Ping-Pong Ball Levitation PID Control System
 
-## Project Video
-[Click here to watch the full system demonstration on youtube](https://www.youtube.com/watch?v=pBzFlaL845w)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=pBzFlaL845w">
+    <img src="https://img.youtube.com/vi/pBzFlaL845w/0.jpg" alt="Watch the video" width="600">
+  </a>
+  <br>
+  <i>Click the image above to watch the full system demonstration on YouTube.</i>
+</div>
 
-#note:>>
-#watch the video file first 
-.............
-.............
 ## Introduction
-.............
-An Arduino-based pneumatic levitation system that uses a custom PID controller to stabilize a ping-pong ball in a vertical airstream. 
-Features a dual-ultrasonic sensor architecture allowing users to dynamically control the levitation height using hand gestures, alongside a LabVIEW supervisory dashboard.
+An Arduino-based pneumatic levitation system that uses a custom PID controller to stabilize a ping-pong ball in a vertical airstream. Features a dual-ultrasonic sensor architecture allowing users to dynamically control the levitation height using hand gestures, alongside a LabVIEW supervisory dashboard.
 
+<p align="center">
+  <img width="478" alt="Screenshot 1" src="https://github.com/user-attachments/assets/b5f0734b-42bd-4f59-8f77-82076858f885" />
+</p>
 
-##  System Architecture
+## System Architecture
 
 *   **Microcontroller:** Arduino (Handles all real-time PID calculations and sensor polling at ~30ms intervals).
 *   **Actuation:** 12V Blower Fan driven by an L298N Motor Driver (PWM controlled).
@@ -30,10 +30,12 @@ The Arduino calculates the error between the desired setpoint (hand position or 
 ## Repository Contents
 *   `levitation_controller.ino`: The main Arduino C++ firmware containing the PID loop and sensor logic.
 *   `PID_Control_Dashboard.vi`: The LabVIEW virtual instrument used for serial data acquisition and manual override.
-*   `System_Design_Report.pdf`: Hardware schematics and theoretical background.
-  
-#author Mohamed Ahmed Abdulhamid Abdellah
+*   `System_Design_and_modelling_Report.pdf`: Hardware schematics and theoretical background.
 
+<p align="center">
+  <img width="711" alt="Screenshot 2" src="https://github.com/user-attachments/assets/3ee15989-13af-476f-be05-464e061641a6" />
+</p>
 
-<img width="711" height="1919" alt="Screenshot 2026-08-12 182619" src="https://github.com/user-attachments/assets/3ee15989-13af-476f-be05-464e061641a6" />
-
+---
+**Author:** Mohamed Ahmed Abdulhamid Abdellah  
+**Contact:** mohamed.abdulhamid404@gmail.com
