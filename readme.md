@@ -1,4 +1,4 @@
-#Interactive Air Levitation PID Control
+#Interactive Air Ping Pong Ball Levitation PID Control System
 #by : Mohamed Ahmed Abdulhamid Abdellah
 <img width="478" height="986" alt="Screenshot 2026-08-12 182243" src="https://github.com/user-attachments/assets/b5f0734b-42bd-4f59-8f77-82076858f885" />
 
