@@ -1,13 +1,13 @@
 # Interactive Air Ping-Pong Ball Levitation PID Control System
 
+## Project Video
 <div align="center">
   <a href="https://www.youtube.com/watch?v=pBzFlaL845w">
     <img src="https://img.youtube.com/vi/pBzFlaL845w/0.jpg" alt="Watch the video" width="600">
   </a>
-  <br>
-  <i>Click the image above to watch the full system demonstration on YouTube.</i>
+  <br><br>
+  <a href="https://www.youtube.com/watch?v=pBzFlaL845w"><b><u>▶ Click the image above to watch the full system demonstration on YouTube</u></b></a>
 </div>
-
 ## Introduction
 An Arduino-based pneumatic levitation system that uses a custom PID controller to stabilize a ping-pong ball in a vertical airstream. Features a dual-ultrasonic sensor architecture allowing users to dynamically control the levitation height using hand gestures, alongside a LabVIEW supervisory dashboard.
 
