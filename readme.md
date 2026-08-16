@@ -8,6 +8,7 @@
   <br><br>
   <a href="https://www.youtube.com/watch?v=pBzFlaL845w"><b><u>▶ Click the image above to watch the full system demonstration on YouTube</u></b></a>
 </div>
+
 ## Introduction
 An Arduino-based pneumatic levitation system that uses a custom PID controller to stabilize a ping-pong ball in a vertical airstream. Features a dual-ultrasonic sensor architecture allowing users to dynamically control the levitation height using hand gestures, alongside a LabVIEW supervisory dashboard.
 
